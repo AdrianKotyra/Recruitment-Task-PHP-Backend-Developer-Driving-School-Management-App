@@ -1,5 +1,4 @@
-# Recruitment Task: PHP Backend Developer – PlanJazd.pl
-
+# Recruitment Task: PHP Backend Developer 
 This project is a recruitment task for the **PHP Backend Developer** 
 The goal is to implement a simple backend in **pure PHP** for a driving school management web application.  
 The provided `index.php` file contains a complete frontend (HTML, CSS, JS) that communicates with a backend via `fetch()` requests.
